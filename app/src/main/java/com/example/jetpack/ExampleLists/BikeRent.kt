@@ -153,7 +153,6 @@ fun Block(img: Int, name: String, schid: String, price: String , onClick : () ->
                     .padding(end = 10.dp)
                     .size(69.dp)
                     .weight(.3f)
-
             )
             Column(Modifier.weight(.8f)) {
 
